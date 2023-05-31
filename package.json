@@ -1,0 +1,15 @@
+{
+    "name": "node-auth-example",
+    "version": "1.0.0",
+    "description": "Example Node.js app for authentication and user registration",
+    "main": "app.js",
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "cors": "^2.8.5",
+        "express": "^4.17.1",
+        "mysql2": "^3.3.0"
+    },
+    "scripts": {
+        "start": "node app.js"
+    }
+}
